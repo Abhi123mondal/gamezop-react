@@ -18,7 +18,6 @@ const Drawer = () => {
 					&times;
 				</span>
 				<a href='#'>Home</a>
-				<a href='#'>Sports</a>
 				<a href='#'>News</a>
 				<a href='#'>Log out</a>
 			</div>

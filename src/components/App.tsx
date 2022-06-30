@@ -7,7 +7,7 @@ export interface AppProps {
 const App = (props: AppProps) => {
 	return (
 		<div>
-			<h1 className='heading'>Welcome to Gamezop</h1>
+			<h1 className='heading'>DASHBOARD</h1>
 			<Header />
 		</div>
 	);
